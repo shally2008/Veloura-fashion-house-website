@@ -1,0 +1,1 @@
+function showWelcome() { alert("Welcome to Veloura – Where fashion meets confidence!"); }
